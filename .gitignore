@@ -1,6 +1,5 @@
 .gradle
 /build/
-!/build/libs/restapitest-1.0.0.jar
 !gradle/wrapper/gradle-wrapper.jar
 
 ### STS ###
